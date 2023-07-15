@@ -1,0 +1,10 @@
+.project {
+    width: 260px;
+    margin: 0 auto;
+    padding: 2.4em;
+}
+
+.project p{
+    width: 600px;
+    font-weight: bold;
+}
