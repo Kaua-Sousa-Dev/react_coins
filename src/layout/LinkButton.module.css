@@ -1,0 +1,9 @@
+.btn {
+    font-size: 1.4em;
+    padding: 6px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: gold;
+    background-color: rgba(22, 21, 21, 0.897);
+    border-radius: 5px;
+}

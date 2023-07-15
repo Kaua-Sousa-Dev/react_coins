@@ -1,0 +1,33 @@
+.footer {
+    background-color: rgba(22, 21, 21, 0.897);
+    color: white;
+    padding: 3em;
+    text-align: center;
+}
+
+.items {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.items li{
+    margin: 0 1em;
+}
+
+.items li:hover{
+    color: gold;
+}
+
+.items svg{
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.copy_right {
+    margin-top: 2em;
+}
+
+.copy_right span{
+    color: gold;
+}
