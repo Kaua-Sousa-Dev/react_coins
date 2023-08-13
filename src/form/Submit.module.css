@@ -1,0 +1,13 @@
+.btn {
+    background-color: rgba(22, 21, 21, 0.897);
+    color: #fff;
+    padding: .7em 1.2em;
+    text-decoration: none;
+    transition: .5s;
+    cursor: pointer;
+    border: none;
+}
+
+.btn:hover{
+    color: gold;
+}
