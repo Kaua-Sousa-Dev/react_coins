@@ -1,0 +1,19 @@
+.message{
+    width: 100%;
+    padding: .4em;
+    border: 1px solid;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 2em;
+    border-radius: 5px;
+}
+
+.sucess{
+    color: beige;
+    background-color: rgba(49, 175, 70, 0.959);
+}
+
+.error{
+    color: beige;
+    background-color: rgba(190, 56, 56, 0.938);
+}
