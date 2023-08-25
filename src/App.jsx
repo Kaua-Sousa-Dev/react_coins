@@ -1,7 +1,6 @@
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import Home from './pages/Home';
 import NewProject from './pages/NewProject';
-import Company from './pages/Company';
 import Projects from './pages/Projects'
 
 import Container from './layout/Container';
@@ -18,7 +17,6 @@ function App() {
       <Container customClass="min-height">
         <Routes>
           <Route path='/' element={<Home />}></Route>
-          <Route path='/company' element={<Company />}></Route>
           <Route path='/projects' element={<Projects />}></Route>
           <Route path='/newproject' element={<NewProject />}></Route>
           <Route path='/project/:id' element={<Project />}></Route>

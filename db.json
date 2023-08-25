@@ -1,15 +1,26 @@
 {
   "projects": [
     {
-      "name": "oi",
-      "budget": "1024",
+      "name": "Site Freelance",
+      "budget": "20273",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
+      "cost": -612,
+      "service": [],
+      "id": 2
+    },
+    {
+      "name": "edificação",
+      "budget": "12200",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
       "cost": 0,
       "service": [],
-      "id": 1
+      "id": 3
     }
   ],
   "categories": [
